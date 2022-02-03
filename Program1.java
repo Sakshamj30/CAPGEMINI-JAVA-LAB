@@ -1,6 +1,6 @@
 package com.capgExcersies;
 
-	public class Test
+	public class Program1
 	{
 		static int x = 1;
 		private int y = 3;
